@@ -8,7 +8,7 @@
 
 ### When you are answering that's is ok for you
 
-* Thah should work for me!
-
+* That should work for me!
+* 
 
 
