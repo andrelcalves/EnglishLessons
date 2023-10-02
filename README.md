@@ -41,3 +41,4 @@ Vitoria Idiomatika18:07
 
 138
 
+to crave for (desejar, quando falar de comida)

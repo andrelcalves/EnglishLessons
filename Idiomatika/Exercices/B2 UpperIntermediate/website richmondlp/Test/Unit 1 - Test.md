@@ -162,10 +162,7 @@ Liz is so excited. She can’t
 wait
  to go on vacation.
 
-9
-If you want to 
-succeed
- in life, you need to work very hard.
+9 - If you want to succeed in life, you need to work very hard.
 
 10
 When do you 
